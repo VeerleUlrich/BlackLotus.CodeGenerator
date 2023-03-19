@@ -1,0 +1,25 @@
+﻿In order to create a new query we need the following files created:
+
+1. <Domain>.Infrastructure
+- Folder of domain (e.g. Equipments)
+	- Folder QueryModels
+		- Folder Models (model has to be added to the <domain>DataConnection.cs)
+		<modelname>.cs
+	<subdomain>QueryModel.cs --> Interface + class. Check if they already exist and add query to this file. If it does not exist, create dataconnection etc.
+- Databasemodels (**)
+- Querymodel (**)
+- 
+
+
+
+** can already exist
+
+Input:
+- domainname
+- subdomainname
+- queryname
+- models (from table or view)
+
+
+domainname is for example Inventory
+subdomainname is for example Equipments
