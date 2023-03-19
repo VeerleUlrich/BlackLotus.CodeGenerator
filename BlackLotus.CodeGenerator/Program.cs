@@ -17,8 +17,16 @@ namespace Roslyn.CodeGeneration
 {
     public class Program
     {
+        private static string _command;
+
         public static void Main(string[] args)
         {
+            _command = "scratch";
+            if(_command == "scratch")
+            {
+                var modelName = args[0];
+                CreateModelFiles(modelName);
+            }
             var sourceCode = File.ReadAllText(@"D:\Code\C#\roslyn\BlackLotus.CodeGenerator\BlackLotus.CodeGenerator\Task.cs");
             var root = GetRoot(sourceCode);
             //identify model?
@@ -78,6 +86,11 @@ namespace Roslyn.CodeGeneration
             File.WriteAllText($@"D:\Code\C#\roslyn\BlackLotus.CodeGenerator\testfiles\{dateAddition}_test.cs", code);
         }
 
+        private static void CreateModelFiles(string modelName)
+        {
+            
+        }
+
         private static object ReadModelFile(SyntaxNode root)
         {
             //create an object that contains the classname, the properties and the attributes on the properties
@@ -95,6 +108,7 @@ namespace Roslyn.CodeGeneration
                 {
                     Console.WriteLine(item.Attributes.First().Name.NormalizeWhitespace().ToFullString());
                 }
+                //TODO: if abstract class, interfacetype
                 if (attributes.Any(attribute => attribute.Attributes.First().Name.NormalizeWhitespace().ToFullString() == "Column")){
                     objectTypeDescriptors.Append(@$"objectTypeDescriptor.Field({firstModelName.ToLower()} => {firstModelName.ToLower()}.{property.GetPropertyName()});");
                 }
