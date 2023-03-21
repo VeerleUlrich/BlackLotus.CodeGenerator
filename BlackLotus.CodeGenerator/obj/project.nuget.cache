@@ -1,16 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "cZJ13SJUXSqForPgTss6oQ4ZRYJC4LeT1Y6DphK354nf4AnQhKVs5KFVh/o+2E+dum7N++JMcpob/4apBy0deg==",
+  "dgSpecHash": "NwOXwf1qOnvPWD+ZDK2ieQPYOB2Fu3S2VRqKB2q7VPnRFyvJZ8A0JSWDW5sluxwRkYh/4zweDhpCkUjbnpSY+g==",
   "success": true,
-  "projectFilePath": "D:\\Code\\C#\\roslyn\\BlackLotus.CodeGenerator\\BlackLotus.CodeGenerator\\BlackLotus.CodeGenerator.csproj",
+  "projectFilePath": "D:\\git_repos\\BlackLotus.CodeGenerator\\BlackLotus.CodeGenerator\\BlackLotus.CodeGenerator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\veerl\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
-    "C:\\Users\\veerl\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
-    "C:\\Users\\veerl\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\veerl\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\veerl\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
-    "C:\\Users\\veerl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\veerl\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\linq2db\\4.4.0\\linq2db.4.4.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\linq2db.aspnet\\4.4.0\\linq2db.aspnet.4.4.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
   ],
   "logs": []
 }

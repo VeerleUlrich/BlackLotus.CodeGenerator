@@ -1,4 +1,7 @@
-﻿In order to create a new query we need the following files created:
+﻿STATUS:
+Working on TypeGenerator. It's now fetching all the types from the solution.
+
+In order to create a new query we need the following files created:
 
 1. <Domain>.Infrastructure
 - Folder of domain (e.g. Equipments)

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RY3hJ4VZSS1pLqBym1jr02Fvk4iwaZ9mNfIn1uDZE+43HQXdo3rQozRC+hL8ZuHkOwYtY88RSadv4SC9twftCQ==",
+  "success": true,
+  "projectFilePath": "D:\\git_repos\\BlackLotus.CodeGenerator\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Veerle Ulrich\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\bin\Debug\netstandard2.0\BlackLotus.SourceGenerator.deps.json
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\bin\Debug\netstandard2.0\BlackLotus.SourceGenerator.dll
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\bin\Debug\netstandard2.0\BlackLotus.SourceGenerator.pdb
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.csproj.AssemblyReference.cache
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.AssemblyInfoInputs.cache
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.AssemblyInfo.cs
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.csproj.CoreCompileInputs.cache
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.dll
+D:\git_repos\BlackLotus.CodeGenerator\BlackLotus.SourceGenerator\obj\Debug\netstandard2.0\BlackLotus.SourceGenerator.pdb
